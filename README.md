@@ -5,6 +5,7 @@
 โปรเจกต์นี้คือระบบนิเวศปัญญาประดิษฐ์เชิงปฏิบัติการ (AI Cognitive Operations Ecosystem) ที่ถูกพัฒนาขึ้นบนสถาปัตยกรรม **Multi-Agent** โดยประยุกต์ใช้แนวคิดของ **Specialized AI Agents** (Baby AI) ที่ทำงานร่วมกันภายใต้การกำกับดูแลของระบบส่วนกลาง (Guardian AI) เพื่อความปลอดภัยและประสิทธิภาพสูงสุด
 
 ---
+feat: add AI Operations Constitution to README
 
 ## 🧩 โครงสร้างสถาปัตยกรรม (Specialized AI Agents / "Baby AI")
 ระบบประกอบด้วย AI เฉพาะทางหลายตัวที่มีบุคลิกการทำงาน ความสามารถ จุดอ่อน และความต้องการในการกำกับดูแล (Supervision) ที่แตกต่างกัน 
