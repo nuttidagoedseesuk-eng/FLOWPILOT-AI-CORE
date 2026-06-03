@@ -1,7 +1,3 @@
----
-
-### 🧩 2. ไฟล์ `AGENT_SPEC.md` (ข้อมูลคุณลักษณะเฉพาะของ Baby AI)
-
 ```markdown
 # Agent Specifications (Baby AI Ecosystem)
 
